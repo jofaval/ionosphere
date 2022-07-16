@@ -67,7 +67,7 @@ Another visualization worth noticing it's the pattern similarity comparison. I t
 ## 🤓 Conclusions
 [↑ Back to the table](#table-of-contents)
 
-Whenever possible, even on a perfect, ready-to-work dataset, read the abstract, the papaer, whatever information it is that you may have at hand, it truly helps understand the evaluation of the results and it's tuning.
+Whenever possible, even on a perfect, ready-to-work dataset, read the abstract, the paper, whatever information it is that you may have at hand, it truly helps understand the evaluation of the results and it's tuning.
 
 I'm starting to realize that, even though it's important, understanding what you're tackling, and correctly visualizing the problem, it's one of the most important tasks, if not the most, and comprehending what you're doing, even if we, nowadays, have algorithms that are really powerful and easy to implement, can help a lot as to understand what's going on, or what's not going on if it should.
 
